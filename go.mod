@@ -1,4 +1,4 @@
-module example/web-service-gin
+module golang-gin-cleanarchitecture
 
 go 1.21.1
 
@@ -30,4 +30,3 @@ require (
 	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
